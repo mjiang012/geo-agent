@@ -1,0 +1,94 @@
+{
+  "task": {
+    "id": "task_mnx8lp7sz5ly47",
+    "keyword": "AI编程工具",
+    "platforms": [
+      "doubao",
+      "qianwen"
+    ],
+    "status": "completed",
+    "createdAt": "2026-04-13T13:37:17.032Z",
+    "completedAt": "2026-04-13T13:37:18.034Z"
+  },
+  "keyword": "AI编程工具",
+  "sources": [
+    {
+      "id": "src_doubao_1776087437032_1",
+      "platform": "doubao",
+      "keyword": "AI编程工具",
+      "title": "AI编程工具 - 最新资讯与详细介绍",
+      "url": "https://example.com/article1",
+      "snippet": "本文详细介绍了AI编程工具的相关信息，包括最新动态、使用方法以及常见问题解答。",
+      "domain": "example.com",
+      "position": 1,
+      "fetchedAt": "2026-04-13T13:37:17.032Z"
+    },
+    {
+      "id": "src_doubao_1776087437032_2",
+      "platform": "doubao",
+      "keyword": "AI编程工具",
+      "title": "AI编程工具使用指南：从入门到精通",
+      "url": "https://example.com/guide",
+      "snippet": "一份完整的AI编程工具使用教程，帮助您快速掌握核心功能和高级技巧。",
+      "domain": "example.com",
+      "position": 2,
+      "fetchedAt": "2026-04-13T13:37:17.032Z"
+    },
+    {
+      "id": "src_doubao_1776087437032_3",
+      "platform": "doubao",
+      "keyword": "AI编程工具",
+      "title": "2024年AI编程工具行业分析报告",
+      "url": "https://example.com/report",
+      "snippet": "深度解析AI编程工具行业发展趋势，包含市场数据、竞争格局和未来预测。",
+      "domain": "example.com",
+      "position": 3,
+      "fetchedAt": "2026-04-13T13:37:17.032Z"
+    },
+    {
+      "id": "src_qianwen_1776087438034_1",
+      "platform": "qianwen",
+      "keyword": "AI编程工具",
+      "title": "AI编程工具是什么？一文读懂核心概念",
+      "url": "https://tech.example.com/intro",
+      "snippet": "AI编程工具是当前热门的技术/话题，本文将从定义、原理、应用场景等多个维度进行全面解读。",
+      "domain": "tech.example.com",
+      "position": 1,
+      "fetchedAt": "2026-04-13T13:37:18.034Z"
+    },
+    {
+      "id": "src_qianwen_1776087438034_2",
+      "platform": "qianwen",
+      "keyword": "AI编程工具",
+      "title": "AI编程工具实战案例分享",
+      "url": "https://case.example.com/demo",
+      "snippet": "通过真实案例深入了解AI编程工具的实际应用，包含详细的操作步骤和效果分析。",
+      "domain": "case.example.com",
+      "position": 2,
+      "fetchedAt": "2026-04-13T13:37:18.034Z"
+    },
+    {
+      "id": "src_qianwen_1776087438034_3",
+      "platform": "qianwen",
+      "keyword": "AI编程工具",
+      "title": "AI编程工具常见问题FAQ",
+      "url": "https://faq.example.com/questions",
+      "snippet": "汇总关于AI编程工具的最常见问题及专业解答，帮助您快速解决疑惑。",
+      "domain": "faq.example.com",
+      "position": 3,
+      "fetchedAt": "2026-04-13T13:37:18.034Z"
+    },
+    {
+      "id": "src_qianwen_1776087438034_4",
+      "platform": "qianwen",
+      "keyword": "AI编程工具",
+      "title": "AI编程工具与其他方案的对比评测",
+      "url": "https://compare.example.com/vs",
+      "snippet": "客观对比AI编程工具与同类产品的优劣势，为您的选择提供参考依据。",
+      "domain": "compare.example.com",
+      "position": 4,
+      "fetchedAt": "2026-04-13T13:37:18.034Z"
+    }
+  ],
+  "fetchedAt": "2026-04-13T13:37:18.036Z"
+}

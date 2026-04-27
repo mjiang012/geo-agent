@@ -1,0 +1,94 @@
+{
+  "task": {
+    "id": "task_mnx8zq2s7opd7r",
+    "keyword": "自然语言处理",
+    "platforms": [
+      "doubao",
+      "qianwen"
+    ],
+    "status": "completed",
+    "createdAt": "2026-04-13T13:48:11.332Z",
+    "completedAt": "2026-04-13T13:48:12.335Z"
+  },
+  "keyword": "自然语言处理",
+  "sources": [
+    {
+      "id": "src_doubao_1776088091332_1",
+      "platform": "doubao",
+      "keyword": "自然语言处理",
+      "title": "自然语言处理 - 最新资讯与详细介绍",
+      "url": "https://example.com/article1",
+      "snippet": "本文详细介绍了自然语言处理的相关信息，包括最新动态、使用方法以及常见问题解答。",
+      "domain": "example.com",
+      "position": 1,
+      "fetchedAt": "2026-04-13T13:48:11.332Z"
+    },
+    {
+      "id": "src_doubao_1776088091332_2",
+      "platform": "doubao",
+      "keyword": "自然语言处理",
+      "title": "自然语言处理使用指南：从入门到精通",
+      "url": "https://example.com/guide",
+      "snippet": "一份完整的自然语言处理使用教程，帮助您快速掌握核心功能和高级技巧。",
+      "domain": "example.com",
+      "position": 2,
+      "fetchedAt": "2026-04-13T13:48:11.332Z"
+    },
+    {
+      "id": "src_doubao_1776088091332_3",
+      "platform": "doubao",
+      "keyword": "自然语言处理",
+      "title": "2024年自然语言处理行业分析报告",
+      "url": "https://example.com/report",
+      "snippet": "深度解析自然语言处理行业发展趋势，包含市场数据、竞争格局和未来预测。",
+      "domain": "example.com",
+      "position": 3,
+      "fetchedAt": "2026-04-13T13:48:11.332Z"
+    },
+    {
+      "id": "src_qianwen_1776088092335_1",
+      "platform": "qianwen",
+      "keyword": "自然语言处理",
+      "title": "自然语言处理是什么？一文读懂核心概念",
+      "url": "https://tech.example.com/intro",
+      "snippet": "自然语言处理是当前热门的技术/话题，本文将从定义、原理、应用场景等多个维度进行全面解读。",
+      "domain": "tech.example.com",
+      "position": 1,
+      "fetchedAt": "2026-04-13T13:48:12.335Z"
+    },
+    {
+      "id": "src_qianwen_1776088092335_2",
+      "platform": "qianwen",
+      "keyword": "自然语言处理",
+      "title": "自然语言处理实战案例分享",
+      "url": "https://case.example.com/demo",
+      "snippet": "通过真实案例深入了解自然语言处理的实际应用，包含详细的操作步骤和效果分析。",
+      "domain": "case.example.com",
+      "position": 2,
+      "fetchedAt": "2026-04-13T13:48:12.335Z"
+    },
+    {
+      "id": "src_qianwen_1776088092335_3",
+      "platform": "qianwen",
+      "keyword": "自然语言处理",
+      "title": "自然语言处理常见问题FAQ",
+      "url": "https://faq.example.com/questions",
+      "snippet": "汇总关于自然语言处理的最常见问题及专业解答，帮助您快速解决疑惑。",
+      "domain": "faq.example.com",
+      "position": 3,
+      "fetchedAt": "2026-04-13T13:48:12.335Z"
+    },
+    {
+      "id": "src_qianwen_1776088092335_4",
+      "platform": "qianwen",
+      "keyword": "自然语言处理",
+      "title": "自然语言处理与其他方案的对比评测",
+      "url": "https://compare.example.com/vs",
+      "snippet": "客观对比自然语言处理与同类产品的优劣势，为您的选择提供参考依据。",
+      "domain": "compare.example.com",
+      "position": 4,
+      "fetchedAt": "2026-04-13T13:48:12.335Z"
+    }
+  ],
+  "fetchedAt": "2026-04-13T13:48:12.336Z"
+}

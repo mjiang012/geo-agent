@@ -1,0 +1,94 @@
+{
+  "task": {
+    "id": "task_mnx8lyfi54jc9f",
+    "keyword": "人工智能",
+    "platforms": [
+      "doubao",
+      "qianwen"
+    ],
+    "status": "completed",
+    "createdAt": "2026-04-13T13:37:28.974Z",
+    "completedAt": "2026-04-13T13:37:29.976Z"
+  },
+  "keyword": "人工智能",
+  "sources": [
+    {
+      "id": "src_doubao_1776087448974_1",
+      "platform": "doubao",
+      "keyword": "人工智能",
+      "title": "人工智能 - 最新资讯与详细介绍",
+      "url": "https://example.com/article1",
+      "snippet": "本文详细介绍了人工智能的相关信息，包括最新动态、使用方法以及常见问题解答。",
+      "domain": "example.com",
+      "position": 1,
+      "fetchedAt": "2026-04-13T13:37:28.974Z"
+    },
+    {
+      "id": "src_doubao_1776087448974_2",
+      "platform": "doubao",
+      "keyword": "人工智能",
+      "title": "人工智能使用指南：从入门到精通",
+      "url": "https://example.com/guide",
+      "snippet": "一份完整的人工智能使用教程，帮助您快速掌握核心功能和高级技巧。",
+      "domain": "example.com",
+      "position": 2,
+      "fetchedAt": "2026-04-13T13:37:28.974Z"
+    },
+    {
+      "id": "src_doubao_1776087448974_3",
+      "platform": "doubao",
+      "keyword": "人工智能",
+      "title": "2024年人工智能行业分析报告",
+      "url": "https://example.com/report",
+      "snippet": "深度解析人工智能行业发展趋势，包含市场数据、竞争格局和未来预测。",
+      "domain": "example.com",
+      "position": 3,
+      "fetchedAt": "2026-04-13T13:37:28.974Z"
+    },
+    {
+      "id": "src_qianwen_1776087449976_1",
+      "platform": "qianwen",
+      "keyword": "人工智能",
+      "title": "人工智能是什么？一文读懂核心概念",
+      "url": "https://tech.example.com/intro",
+      "snippet": "人工智能是当前热门的技术/话题，本文将从定义、原理、应用场景等多个维度进行全面解读。",
+      "domain": "tech.example.com",
+      "position": 1,
+      "fetchedAt": "2026-04-13T13:37:29.976Z"
+    },
+    {
+      "id": "src_qianwen_1776087449976_2",
+      "platform": "qianwen",
+      "keyword": "人工智能",
+      "title": "人工智能实战案例分享",
+      "url": "https://case.example.com/demo",
+      "snippet": "通过真实案例深入了解人工智能的实际应用，包含详细的操作步骤和效果分析。",
+      "domain": "case.example.com",
+      "position": 2,
+      "fetchedAt": "2026-04-13T13:37:29.976Z"
+    },
+    {
+      "id": "src_qianwen_1776087449976_3",
+      "platform": "qianwen",
+      "keyword": "人工智能",
+      "title": "人工智能常见问题FAQ",
+      "url": "https://faq.example.com/questions",
+      "snippet": "汇总关于人工智能的最常见问题及专业解答，帮助您快速解决疑惑。",
+      "domain": "faq.example.com",
+      "position": 3,
+      "fetchedAt": "2026-04-13T13:37:29.976Z"
+    },
+    {
+      "id": "src_qianwen_1776087449976_4",
+      "platform": "qianwen",
+      "keyword": "人工智能",
+      "title": "人工智能与其他方案的对比评测",
+      "url": "https://compare.example.com/vs",
+      "snippet": "客观对比人工智能与同类产品的优劣势，为您的选择提供参考依据。",
+      "domain": "compare.example.com",
+      "position": 4,
+      "fetchedAt": "2026-04-13T13:37:29.976Z"
+    }
+  ],
+  "fetchedAt": "2026-04-13T13:37:29.976Z"
+}

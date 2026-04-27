@@ -1,0 +1,12 @@
+{
+  "name": "citify-ai-extension",
+  "version": "1.0.0",
+  "description": "Citify AI Browser Extension",
+  "scripts": {
+    "dev": "echo 'Load extension from extension directory in Chrome'",
+    "build": "mkdir -p dist && cp -r manifest.json src icons dist/ 2>/dev/null || cp manifest.json dist/ && cp -r src icons dist/ 2>/dev/null || true"
+  },
+  "keywords": ["extension", "chrome-extension", "geo", "rag"],
+  "author": "",
+  "license": "MIT"
+}

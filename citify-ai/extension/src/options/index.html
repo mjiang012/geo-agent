@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Citify AI Options</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="options-container">
+    <h1>Citify AI Settings</h1>
+    
+    <div class="setting-section">
+      <h2>API Configuration</h2>
+      <div class="setting-item">
+        <label for="apiUrl">API URL</label>
+        <input type="url" id="apiUrl" value="http://localhost:8000/api/v1">
+        <p class="setting-desc">The base URL for the Citify AI API</p>
+      </div>
+      
+      <div class="setting-item">
+        <label for="apiKey">API Key</label>
+        <input type="password" id="apiKey" placeholder="Enter your API key">
+        <p class="setting-desc">Your Citify AI API key for authentication</p>
+      </div>
+    </div>
+    
+    <div class="setting-section">
+      <h2>Analysis Settings</h2>
+      <div class="setting-item checkbox-item">
+        <input type="checkbox" id="autoAnalyze">
+        <label for="autoAnalyze">Auto-analyze pages</label>
+        <p class="setting-desc">Automatically analyze pages when you visit them</p>
+      </div>
+      
+      <div class="setting-item">
+        <label for="defaultIndustry">Default Industry</label>
+        <select id="defaultIndustry">
+          <option value="">Select Industry</option>
+          <option value="technology">Technology</option>
+          <option value="marketing">Marketing</option>
+          <option value="healthcare">Healthcare</option>
+          <option value="finance">Finance</option>
+          <option value="education">Education</option>
+        </select>
+      </div>
+    </div>
+    
+    <div class="setting-section">
+      <h2>Notification Settings</h2>
+      <div class="setting-item checkbox-item">
+        <input type="checkbox" id="showNotifications" checked>
+        <label for="showNotifications">Show desktop notifications</label>
+      </div>
+    </div>
+    
+    <div class="actions">
+      <button id="saveBtn" class="btn-primary">Save Settings</button>
+      <button id="resetBtn" class="btn-secondary">Reset to Defaults</button>
+    </div>
+    
+    <div id="statusMessage" class="status-message"></div>
+  </div>
+  
+  <script src="index.js"></script>
+</body>
+</html>

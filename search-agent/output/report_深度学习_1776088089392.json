@@ -1,0 +1,556 @@
+{
+  "id": "report_mnx8zoku3yg9tw",
+  "keyword": "深度学习",
+  "sources": [
+    {
+      "id": "src_doubao_1776088088376_1",
+      "platform": "doubao",
+      "keyword": "深度学习",
+      "title": "深度学习 - 最新资讯与详细介绍",
+      "url": "https://example.com/article1",
+      "snippet": "本文详细介绍了深度学习的相关信息，包括最新动态、使用方法以及常见问题解答。",
+      "domain": "example.com",
+      "position": 1,
+      "fetchedAt": "2026-04-13T13:48:08.376Z"
+    },
+    {
+      "id": "src_doubao_1776088088376_2",
+      "platform": "doubao",
+      "keyword": "深度学习",
+      "title": "深度学习使用指南：从入门到精通",
+      "url": "https://example.com/guide",
+      "snippet": "一份完整的深度学习使用教程，帮助您快速掌握核心功能和高级技巧。",
+      "domain": "example.com",
+      "position": 2,
+      "fetchedAt": "2026-04-13T13:48:08.376Z"
+    },
+    {
+      "id": "src_doubao_1776088088376_3",
+      "platform": "doubao",
+      "keyword": "深度学习",
+      "title": "2024年深度学习行业分析报告",
+      "url": "https://example.com/report",
+      "snippet": "深度解析深度学习行业发展趋势，包含市场数据、竞争格局和未来预测。",
+      "domain": "example.com",
+      "position": 3,
+      "fetchedAt": "2026-04-13T13:48:08.376Z"
+    },
+    {
+      "id": "src_qianwen_1776088089379_1",
+      "platform": "qianwen",
+      "keyword": "深度学习",
+      "title": "深度学习是什么？一文读懂核心概念",
+      "url": "https://tech.example.com/intro",
+      "snippet": "深度学习是当前热门的技术/话题，本文将从定义、原理、应用场景等多个维度进行全面解读。",
+      "domain": "tech.example.com",
+      "position": 1,
+      "fetchedAt": "2026-04-13T13:48:09.379Z"
+    },
+    {
+      "id": "src_qianwen_1776088089379_2",
+      "platform": "qianwen",
+      "keyword": "深度学习",
+      "title": "深度学习实战案例分享",
+      "url": "https://case.example.com/demo",
+      "snippet": "通过真实案例深入了解深度学习的实际应用，包含详细的操作步骤和效果分析。",
+      "domain": "case.example.com",
+      "position": 2,
+      "fetchedAt": "2026-04-13T13:48:09.379Z"
+    },
+    {
+      "id": "src_qianwen_1776088089379_3",
+      "platform": "qianwen",
+      "keyword": "深度学习",
+      "title": "深度学习常见问题FAQ",
+      "url": "https://faq.example.com/questions",
+      "snippet": "汇总关于深度学习的最常见问题及专业解答，帮助您快速解决疑惑。",
+      "domain": "faq.example.com",
+      "position": 3,
+      "fetchedAt": "2026-04-13T13:48:09.379Z"
+    },
+    {
+      "id": "src_qianwen_1776088089379_4",
+      "platform": "qianwen",
+      "keyword": "深度学习",
+      "title": "深度学习与其他方案的对比评测",
+      "url": "https://compare.example.com/vs",
+      "snippet": "客观对比深度学习与同类产品的优劣势，为您的选择提供参考依据。",
+      "domain": "compare.example.com",
+      "position": 4,
+      "fetchedAt": "2026-04-13T13:48:09.379Z"
+    }
+  ],
+  "analyses": [
+    {
+      "id": "ana_mnx8zokssp6p83",
+      "sourceId": "src_doubao_1776088088376_1",
+      "contentFeatures": {
+        "wordCount": 47,
+        "paragraphCount": 1,
+        "avgSentenceLength": 47,
+        "headingCount": 0,
+        "listCount": 0,
+        "linkCount": 0,
+        "imageCount": 0
+      },
+      "keywords": {
+        "primary": [
+          "深度学习",
+          "详细介绍",
+          "最新资讯",
+          "新资讯与"
+        ],
+        "secondary": [
+          "深度",
+          "深度学",
+          "度学",
+          "度学习",
+          "学习",
+          "最新",
+          "详细",
+          "详细介"
+        ],
+        "longTail": [],
+        "density": {
+          "深度": 0.0851,
+          "深度学": 0.1277,
+          "深度学习": 0.1702,
+          "度学": 0.0851,
+          "度学习": 0.1277,
+          "学习": 0.0851,
+          "最新": 0.0851,
+          "详细": 0.0851,
+          "详细介": 0.1277,
+          "详细介绍": 0.1702
+        }
+      },
+      "suggestions": {
+        "title": [
+          "标题较短，建议增加核心关键词以提高相关性"
+        ],
+        "structure": [
+          "缺少标题层级，建议增加H2/H3标题提升结构清晰度",
+          "缺少列表形式的内容，建议添加要点列表提升可读性"
+        ],
+        "content": [
+          "内容较短，建议扩充至500字以上以提升信息丰富度",
+          "缺少外部链接，建议添加相关引用提升权威性"
+        ],
+        "keywords": [
+          "关键词密度过高，存在堆砌风险，建议自然分布",
+          "长尾关键词较少，建议挖掘更多长尾词覆盖"
+        ]
+      },
+      "score": 65,
+      "analyzedAt": "2026-04-13T13:48:09.388Z"
+    },
+    {
+      "id": "ana_mnx8zoktmhqitb",
+      "sourceId": "src_doubao_1776088088376_2",
+      "contentFeatures": {
+        "wordCount": 43,
+        "paragraphCount": 1,
+        "avgSentenceLength": 43,
+        "headingCount": 0,
+        "listCount": 0,
+        "linkCount": 0,
+        "imageCount": 0
+      },
+      "keywords": {
+        "primary": [
+          "深度学习",
+          "度学习使",
+          "学习使用",
+          "习使用指",
+          "使用指南"
+        ],
+        "secondary": [
+          "深度",
+          "深度学",
+          "度学",
+          "度学习",
+          "学习",
+          "学习使",
+          "习使",
+          "习使用"
+        ],
+        "longTail": [],
+        "density": {
+          "深度": 0.093,
+          "深度学": 0.1395,
+          "深度学习": 0.186,
+          "度学": 0.093,
+          "度学习": 0.1395,
+          "度学习使": 0.186,
+          "学习": 0.093,
+          "学习使": 0.1395,
+          "学习使用": 0.186,
+          "习使": 0.093
+        }
+      },
+      "suggestions": {
+        "title": [
+          "标题较短，建议增加核心关键词以提高相关性"
+        ],
+        "structure": [
+          "缺少标题层级，建议增加H2/H3标题提升结构清晰度",
+          "缺少列表形式的内容，建议添加要点列表提升可读性"
+        ],
+        "content": [
+          "内容较短，建议扩充至500字以上以提升信息丰富度",
+          "缺少外部链接，建议添加相关引用提升权威性"
+        ],
+        "keywords": [
+          "关键词密度过高，存在堆砌风险，建议自然分布",
+          "长尾关键词较少，建议挖掘更多长尾词覆盖"
+        ]
+      },
+      "score": 65,
+      "analyzedAt": "2026-04-13T13:48:09.389Z"
+    },
+    {
+      "id": "ana_mnx8zokt2uoncp",
+      "sourceId": "src_doubao_1776088088376_3",
+      "contentFeatures": {
+        "wordCount": 40,
+        "paragraphCount": 1,
+        "avgSentenceLength": 40,
+        "headingCount": 0,
+        "listCount": 0,
+        "linkCount": 0,
+        "imageCount": 0
+      },
+      "keywords": {
+        "primary": [
+          "深度解析",
+          "度解析深",
+          "解析深度",
+          "析深度学",
+          "深度学习"
+        ],
+        "secondary": [
+          "深度",
+          "深度解",
+          "度解",
+          "度解析",
+          "解析",
+          "解析深",
+          "析深",
+          "析深度"
+        ],
+        "longTail": [
+          "2024年深度学习行业分析报告"
+        ],
+        "density": {
+          "深度": 0.15,
+          "2024年深度学习行业分析报告": 0.375,
+          "深度解": 0.075,
+          "深度解析": 0.1,
+          "度解": 0.05,
+          "度解析": 0.075,
+          "度解析深": 0.1,
+          "解析": 0.05,
+          "解析深": 0.075,
+          "解析深度": 0.1
+        }
+      },
+      "suggestions": {
+        "title": [
+          "标题较短，建议增加核心关键词以提高相关性"
+        ],
+        "structure": [
+          "缺少标题层级，建议增加H2/H3标题提升结构清晰度",
+          "缺少列表形式的内容，建议添加要点列表提升可读性"
+        ],
+        "content": [
+          "内容较短，建议扩充至500字以上以提升信息丰富度",
+          "缺少外部链接，建议添加相关引用提升权威性"
+        ],
+        "keywords": [
+          "关键词密度过高，存在堆砌风险，建议自然分布",
+          "长尾关键词较少，建议挖掘更多长尾词覆盖"
+        ]
+      },
+      "score": 65,
+      "analyzedAt": "2026-04-13T13:48:09.389Z"
+    },
+    {
+      "id": "ana_mnx8zoktf1gkn6",
+      "sourceId": "src_qianwen_1776088089379_1",
+      "contentFeatures": {
+        "wordCount": 52,
+        "paragraphCount": 1,
+        "avgSentenceLength": 26,
+        "headingCount": 0,
+        "listCount": 0,
+        "linkCount": 0,
+        "imageCount": 0
+      },
+      "keywords": {
+        "primary": [
+          "深度学习",
+          "度学习是",
+          "学习是什",
+          "习是什么",
+          "一文读懂"
+        ],
+        "secondary": [
+          "深度",
+          "深度学",
+          "度学",
+          "度学习",
+          "学习",
+          "学习是",
+          "习是",
+          "习是什"
+        ],
+        "longTail": [],
+        "density": {
+          "深度": 0.0769,
+          "深度学": 0.1154,
+          "深度学习": 0.1538,
+          "度学": 0.0769,
+          "度学习": 0.1154,
+          "度学习是": 0.1538,
+          "学习": 0.0769,
+          "学习是": 0.1154,
+          "习是": 0.0769,
+          "学习是什": 0.0769
+        }
+      },
+      "suggestions": {
+        "title": [
+          "标题较短，建议增加核心关键词以提高相关性"
+        ],
+        "structure": [
+          "缺少标题层级，建议增加H2/H3标题提升结构清晰度",
+          "缺少列表形式的内容，建议添加要点列表提升可读性"
+        ],
+        "content": [
+          "内容较短，建议扩充至500字以上以提升信息丰富度",
+          "缺少外部链接，建议添加相关引用提升权威性"
+        ],
+        "keywords": [
+          "关键词密度过高，存在堆砌风险，建议自然分布",
+          "长尾关键词较少，建议挖掘更多长尾词覆盖"
+        ]
+      },
+      "score": 70,
+      "analyzedAt": "2026-04-13T13:48:09.389Z"
+    },
+    {
+      "id": "ana_mnx8zokudsetn3",
+      "sourceId": "src_qianwen_1776088089379_2",
+      "contentFeatures": {
+        "wordCount": 43,
+        "paragraphCount": 1,
+        "avgSentenceLength": 43,
+        "headingCount": 0,
+        "listCount": 0,
+        "linkCount": 0,
+        "imageCount": 0
+      },
+      "keywords": {
+        "primary": [
+          "深度学习",
+          "度学习实",
+          "学习实战",
+          "习实战案",
+          "实战案例"
+        ],
+        "secondary": [
+          "深度",
+          "深度学",
+          "度学",
+          "度学习",
+          "学习",
+          "案例",
+          "学习实",
+          "习实"
+        ],
+        "longTail": [],
+        "density": {
+          "深度": 0.093,
+          "深度学": 0.1395,
+          "深度学习": 0.186,
+          "度学": 0.093,
+          "度学习": 0.1395,
+          "学习": 0.093,
+          "案例": 0.093,
+          "度学习实": 0.093,
+          "学习实": 0.0698,
+          "学习实战": 0.093
+        }
+      },
+      "suggestions": {
+        "title": [
+          "标题较短，建议增加核心关键词以提高相关性"
+        ],
+        "structure": [
+          "缺少标题层级，建议增加H2/H3标题提升结构清晰度",
+          "缺少列表形式的内容，建议添加要点列表提升可读性"
+        ],
+        "content": [
+          "内容较短，建议扩充至500字以上以提升信息丰富度",
+          "缺少外部链接，建议添加相关引用提升权威性"
+        ],
+        "keywords": [
+          "关键词密度过高，存在堆砌风险，建议自然分布",
+          "长尾关键词较少，建议挖掘更多长尾词覆盖"
+        ]
+      },
+      "score": 65,
+      "analyzedAt": "2026-04-13T13:48:09.390Z"
+    },
+    {
+      "id": "ana_mnx8zokunjk7fw",
+      "sourceId": "src_qianwen_1776088089379_3",
+      "contentFeatures": {
+        "wordCount": 37,
+        "paragraphCount": 1,
+        "avgSentenceLength": 37,
+        "headingCount": 0,
+        "listCount": 0,
+        "linkCount": 0,
+        "imageCount": 0
+      },
+      "keywords": {
+        "primary": [
+          "汇总关于",
+          "总关于深",
+          "关于深度",
+          "于深度学",
+          "深度学习"
+        ],
+        "secondary": [
+          "汇总",
+          "汇总关",
+          "总关",
+          "总关于",
+          "关于",
+          "关于深",
+          "于深",
+          "于深度"
+        ],
+        "longTail": [
+          "深度学习常见问题faq"
+        ],
+        "density": {
+          "深度学习常见问题faq": 0.2973,
+          "汇总": 0.0541,
+          "汇总关": 0.0811,
+          "汇总关于": 0.1081,
+          "总关": 0.0541,
+          "总关于": 0.0811,
+          "总关于深": 0.1081,
+          "关于": 0.0541,
+          "关于深": 0.0811,
+          "关于深度": 0.1081
+        }
+      },
+      "suggestions": {
+        "title": [
+          "标题较短，建议增加核心关键词以提高相关性"
+        ],
+        "structure": [
+          "缺少标题层级，建议增加H2/H3标题提升结构清晰度",
+          "缺少列表形式的内容，建议添加要点列表提升可读性"
+        ],
+        "content": [
+          "内容较短，建议扩充至500字以上以提升信息丰富度",
+          "缺少外部链接，建议添加相关引用提升权威性"
+        ],
+        "keywords": [
+          "关键词密度过高，存在堆砌风险，建议自然分布",
+          "长尾关键词较少，建议挖掘更多长尾词覆盖"
+        ]
+      },
+      "score": 65,
+      "analyzedAt": "2026-04-13T13:48:09.390Z"
+    },
+    {
+      "id": "ana_mnx8zokuqm7zr5",
+      "sourceId": "src_qianwen_1776088089379_4",
+      "contentFeatures": {
+        "wordCount": 42,
+        "paragraphCount": 1,
+        "avgSentenceLength": 42,
+        "headingCount": 0,
+        "listCount": 0,
+        "linkCount": 0,
+        "imageCount": 0
+      },
+      "keywords": {
+        "primary": [
+          "深度学习",
+          "度学习与",
+          "学习与其",
+          "习与其他",
+          "与其他方"
+        ],
+        "secondary": [
+          "深度",
+          "深度学",
+          "度学",
+          "度学习",
+          "学习",
+          "学习与",
+          "习与",
+          "对比"
+        ],
+        "longTail": [],
+        "density": {
+          "深度": 0.0952,
+          "深度学": 0.1429,
+          "深度学习": 0.1905,
+          "度学": 0.0952,
+          "度学习": 0.1429,
+          "度学习与": 0.1905,
+          "学习": 0.0952,
+          "学习与": 0.1429,
+          "习与": 0.0952,
+          "对比": 0.0952
+        }
+      },
+      "suggestions": {
+        "title": [
+          "标题较短，建议增加核心关键词以提高相关性"
+        ],
+        "structure": [
+          "缺少标题层级，建议增加H2/H3标题提升结构清晰度",
+          "缺少列表形式的内容，建议添加要点列表提升可读性"
+        ],
+        "content": [
+          "内容较短，建议扩充至500字以上以提升信息丰富度",
+          "缺少外部链接，建议添加相关引用提升权威性"
+        ],
+        "keywords": [
+          "关键词密度过高，存在堆砌风险，建议自然分布",
+          "长尾关键词较少，建议挖掘更多长尾词覆盖"
+        ]
+      },
+      "score": 65,
+      "analyzedAt": "2026-04-13T13:48:09.390Z"
+    }
+  ],
+  "summary": {
+    "totalSources": 7,
+    "avgScore": 65.7,
+    "topKeywords": [
+      "深度学习",
+      "深度",
+      "深度学",
+      "度学",
+      "度学习",
+      "学习",
+      "详细介绍",
+      "最新资讯",
+      "新资讯与",
+      "最新"
+    ],
+    "commonPatterns": [
+      "短文内容"
+    ]
+  },
+  "generatedAt": "2026-04-13T13:48:09.390Z"
+}

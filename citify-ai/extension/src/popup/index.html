@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Citify AI</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="popup-container">
+    <div class="popup-header">
+      <h1>Citify AI</h1>
+      <p class="subtitle">GEO Optimization Tool</p>
+    </div>
+    
+    <div class="popup-content">
+      <div class="section">
+        <h2>Current Page Analysis</h2>
+        <div class="rag-score">
+          <div class="score-circle">
+            <span class="score-value">--</span>
+          </div>
+          <p class="score-label">RAG Score</p>
+        </div>
+        <div class="quick-stats">
+          <div class="stat-item">
+            <span class="stat-value">--</span>
+            <span class="stat-label">Words</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-value">--</span>
+            <span class="stat-label">Headings</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-value">--</span>
+            <span class="stat-label">Links</span>
+          </div>
+        </div>
+        <button id="analyzeBtn" class="btn-primary">Analyze Page</button>
+      </div>
+      
+      <div class="section">
+        <h2>Quick Actions</h2>
+        <div class="action-buttons">
+          <button class="btn-secondary">Optimize Content</button>
+          <button class="btn-secondary">Generate Questions</button>
+          <button class="btn-secondary">Open Dashboard</button>
+        </div>
+      </div>
+      
+      <div class="section suggestions-section">
+        <h2>Optimization Suggestions</h2>
+        <div id="suggestions" class="suggestions">
+          <p class="placeholder">Analyze page to see suggestions...</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <script src="index.js"></script>
+</body>
+</html>

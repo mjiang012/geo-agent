@@ -1,0 +1,94 @@
+{
+  "task": {
+    "id": "task_mnx8znsoocwyzf",
+    "keyword": "深度学习",
+    "platforms": [
+      "doubao",
+      "qianwen"
+    ],
+    "status": "completed",
+    "createdAt": "2026-04-13T13:48:08.376Z",
+    "completedAt": "2026-04-13T13:48:09.380Z"
+  },
+  "keyword": "深度学习",
+  "sources": [
+    {
+      "id": "src_doubao_1776088088376_1",
+      "platform": "doubao",
+      "keyword": "深度学习",
+      "title": "深度学习 - 最新资讯与详细介绍",
+      "url": "https://example.com/article1",
+      "snippet": "本文详细介绍了深度学习的相关信息，包括最新动态、使用方法以及常见问题解答。",
+      "domain": "example.com",
+      "position": 1,
+      "fetchedAt": "2026-04-13T13:48:08.376Z"
+    },
+    {
+      "id": "src_doubao_1776088088376_2",
+      "platform": "doubao",
+      "keyword": "深度学习",
+      "title": "深度学习使用指南：从入门到精通",
+      "url": "https://example.com/guide",
+      "snippet": "一份完整的深度学习使用教程，帮助您快速掌握核心功能和高级技巧。",
+      "domain": "example.com",
+      "position": 2,
+      "fetchedAt": "2026-04-13T13:48:08.376Z"
+    },
+    {
+      "id": "src_doubao_1776088088376_3",
+      "platform": "doubao",
+      "keyword": "深度学习",
+      "title": "2024年深度学习行业分析报告",
+      "url": "https://example.com/report",
+      "snippet": "深度解析深度学习行业发展趋势，包含市场数据、竞争格局和未来预测。",
+      "domain": "example.com",
+      "position": 3,
+      "fetchedAt": "2026-04-13T13:48:08.376Z"
+    },
+    {
+      "id": "src_qianwen_1776088089379_1",
+      "platform": "qianwen",
+      "keyword": "深度学习",
+      "title": "深度学习是什么？一文读懂核心概念",
+      "url": "https://tech.example.com/intro",
+      "snippet": "深度学习是当前热门的技术/话题，本文将从定义、原理、应用场景等多个维度进行全面解读。",
+      "domain": "tech.example.com",
+      "position": 1,
+      "fetchedAt": "2026-04-13T13:48:09.379Z"
+    },
+    {
+      "id": "src_qianwen_1776088089379_2",
+      "platform": "qianwen",
+      "keyword": "深度学习",
+      "title": "深度学习实战案例分享",
+      "url": "https://case.example.com/demo",
+      "snippet": "通过真实案例深入了解深度学习的实际应用，包含详细的操作步骤和效果分析。",
+      "domain": "case.example.com",
+      "position": 2,
+      "fetchedAt": "2026-04-13T13:48:09.379Z"
+    },
+    {
+      "id": "src_qianwen_1776088089379_3",
+      "platform": "qianwen",
+      "keyword": "深度学习",
+      "title": "深度学习常见问题FAQ",
+      "url": "https://faq.example.com/questions",
+      "snippet": "汇总关于深度学习的最常见问题及专业解答，帮助您快速解决疑惑。",
+      "domain": "faq.example.com",
+      "position": 3,
+      "fetchedAt": "2026-04-13T13:48:09.379Z"
+    },
+    {
+      "id": "src_qianwen_1776088089379_4",
+      "platform": "qianwen",
+      "keyword": "深度学习",
+      "title": "深度学习与其他方案的对比评测",
+      "url": "https://compare.example.com/vs",
+      "snippet": "客观对比深度学习与同类产品的优劣势，为您的选择提供参考依据。",
+      "domain": "compare.example.com",
+      "position": 4,
+      "fetchedAt": "2026-04-13T13:48:09.379Z"
+    }
+  ],
+  "fetchedAt": "2026-04-13T13:48:09.381Z"
+}
